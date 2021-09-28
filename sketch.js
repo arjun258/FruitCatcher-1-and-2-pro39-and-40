@@ -3,7 +3,6 @@ var back_img;
 var gameState =0;
 var playerCount = 0;
 var allPlayers;
-me;
 
 var player, form,game;
 var player1,player2;
